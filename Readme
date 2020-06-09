@@ -3,3 +3,9 @@ BOM Manipulation Files By Yasser Sammad
 File Name::Description
 
 File_Converter.py: This python code convert BOM files of all types to panda Dataframe File.
+
+Part2: 
+Displaying the whole BOM (rows and columns)
+Merge two Boms E10P and PNP
+Substract two BOMs of the same type (E10P or PNP)
+
